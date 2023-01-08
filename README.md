@@ -1,6 +1,6 @@
 - <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/syaifuddinzuhri/syaifuddinzuhri/main/WhatsApp%20Image%202022-03-21%20at%209.33.35%20AM.jpeg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Hi, I'm Ahmad Ferdias Pratama <img src="" width="50"></h2>
+ <img width="100px" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Hi, I'm Ahmad Ferdias Pratama <width="50"></h2>
  <p align="center"><em>Software Developer
 </em></p>
 </p>
